@@ -1,0 +1,10 @@
+C:\Users\omen\source\repos\VOB_game\VOB_game\bin\Release\VOB_game.exe.config
+C:\Users\omen\source\repos\VOB_game\VOB_game\bin\Release\VOB_game.exe
+C:\Users\omen\source\repos\VOB_game\VOB_game\bin\Release\VOB_game.pdb
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.csproj.AssemblyReference.cache
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.Form1.resources
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.Properties.Resources.resources
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.csproj.GenerateResource.cache
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.csproj.CoreCompileInputs.cache
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.exe
+C:\Users\omen\source\repos\VOB_game\VOB_game\obj\Release\VOB_game.pdb
