@@ -43,6 +43,11 @@ namespace VOB_game
             player_HP = 100;
         }
 
+        public void Reset_ammo()
+        {
+            ammo = 10;
+        }
+
         public void Get_hit()
         {
             player_HP -= 1;

@@ -91,6 +91,7 @@ namespace VOB_game
             game_over = false;
 
             slayer.Reset_HP();
+            slayer.Reset_ammo();
             slayer.Set_position(400, 300);
             slayer.Set_direction("up");
             slayer.Get_pictureBox().BringToFront();
